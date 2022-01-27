@@ -2,4 +2,3 @@ praw
 configparser
 requests
 schedule
-pickledb
